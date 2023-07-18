@@ -1,0 +1,8 @@
+C:\Users\TOTO\Desktop\Mono\Mono_Topics\Mono_Topics#2\bin\Debug\Mono_Topics#2.exe.config
+C:\Users\TOTO\Desktop\Mono\Mono_Topics\Mono_Topics#2\bin\Debug\Mono_Topics#2.exe
+C:\Users\TOTO\Desktop\Mono\Mono_Topics\Mono_Topics#2\bin\Debug\Mono_Topics#2.pdb
+C:\Users\TOTO\Desktop\Mono\Mono_Topics\Mono_Topics#2\obj\Debug\Mono_Topics#2.csproj.AssemblyReference.cache
+C:\Users\TOTO\Desktop\Mono\Mono_Topics\Mono_Topics#2\obj\Debug\Mono_Topics#2.csproj.SuggestedBindingRedirects.cache
+C:\Users\TOTO\Desktop\Mono\Mono_Topics\Mono_Topics#2\obj\Debug\Mono_Topics#2.csproj.CoreCompileInputs.cache
+C:\Users\TOTO\Desktop\Mono\Mono_Topics\Mono_Topics#2\obj\Debug\Mono_Topics#2.exe
+C:\Users\TOTO\Desktop\Mono\Mono_Topics\Mono_Topics#2\obj\Debug\Mono_Topics#2.pdb
